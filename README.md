@@ -9,7 +9,7 @@ Hello! My name is Khetag, I have been studying Frontend development for 3 years,
 
 * ✉️ You can contact me at [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
+[![codewars](https://www.codewars.com/users/Khetag K/badges/large)](https://www.codewars.com/users/Khetag K)   
 
 ### 💻 My stack :
 
