@@ -14,10 +14,8 @@ Hello! My name is Khetag, I have been studying Frontend development for 3 years,
 * ✉️ You can contact me at [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
 
 ## Currently working on :
-study cases, working on yourself,
-
-improving your knowledge and technology indicators,
-
+study cases, working on yourself,  
+improving your knowledge and technology indicators,  
 projects and I am always looking for interesting work!) 
 
 ## 💻 My stack :
