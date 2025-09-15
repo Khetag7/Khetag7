@@ -46,4 +46,4 @@ projects and I am always looking for interesting work!)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white)
 
 ### 📈 GitHub Activity Graph:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Khetag7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khetag7&show_icons=true&theme=radical)
