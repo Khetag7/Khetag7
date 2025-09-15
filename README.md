@@ -15,7 +15,9 @@ Hello! My name is Khetag, I have been studying Frontend development for 3 years,
 
 ## Currently working on :
 study cases, working on yourself,
+
 improving your knowledge and technology indicators,
+
 projects and I am always looking for interesting work!) 
 
 ## 💻 My stack :
