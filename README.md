@@ -1,4 +1,4 @@
-Hi! My name is Khetag Kodzasov
+Hi there! 👋 My name is Khetag Kodzasov
 ========================================================================================================================================
 
 Frontend Developer
