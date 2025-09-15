@@ -1,7 +1,7 @@
 Hi there! 👋 My name is Khetag Kodzasov
 ========================================================================================================================================
 
-Frontend Developer
+Front-end Developer
 ------------------
 ### About me
 
@@ -10,10 +10,6 @@ Hello! My name is Khetag, I have been studying Frontend development for 3 years,
 * ✉️ You can contact me at [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
 
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
-
-[![Static Badge](https://img.shields.io/badge/link_in_my-hh_ru-red?link=https%3A%2F%2Fhh.ru%2Fresume%2F0a8fa8ceff0dcc83970039ed1f737063507558%3Ffrom%3Dshare_ios%20)](https://img.shields.io/badge/link_in_my-hh_ru-red?link=https%3A%2F%2Fhh.ru%2Fresume%2F0a8fa8ceff0dcc83970039ed1f737063507558%3Ffrom%3Dshare_ios%20
-)
-
 
 ### 💻 My stack :
 
