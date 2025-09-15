@@ -13,6 +13,9 @@ Hello! My name is Khetag, I have been studying Frontend development for 3 years,
 
 * ✉️ You can contact me at [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
 
+## Currently working on :
+study cases, working on yourself, improving your knowledge and technology indicators, projects and I am always looking for interesting work!) 
+
 ## 💻 My stack :
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
