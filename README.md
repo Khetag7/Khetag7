@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Khetag7&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Khetag7)
 
 [![codewars](https://www.codewars.com/users/KhetagK/badges/large)](https://www.codewars.com/users/KhetagK)  
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Khetag007&theme=dark)](https://leetcode.com/Khetag007/)
+[![LeetCode user Khetag007](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKhetag007&logo=leetcode&logoColor=yellow)](https://leetcode.com/Khetag007/)
 
 ### About Me
 
@@ -65,7 +65,6 @@ I'm proficient with modern web technologies, learn quickly, and always enjoy mee
 
 ### 📈 GitHub Activity:
 ![Khetag7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khetag7&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khetag7&layout=compact&theme=radical)
 
 ---
 
