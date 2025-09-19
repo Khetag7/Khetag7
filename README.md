@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Khetag7&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Khetag7)
 
 [![codewars](https://www.codewars.com/users/KhetagK/badges/large)](https://www.codewars.com/users/KhetagK)  
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Khetag007&theme=dark)](https://leetcode.com/Khetag007/)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Khetag&theme=dark)](https://leetcode.com/Khetag/)
 
 ### About Me
 
