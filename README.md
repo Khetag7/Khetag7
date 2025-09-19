@@ -3,9 +3,10 @@ Hi there! 👋 My name is Khetag Kodzasov
 
 Front-end Developer
 ------------------
-[![GitHub Profile](https://img.shields.io/badge/GitHub-@Khetag7-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/Khetag7)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-@Khetag7-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/Khetag7) ![](https://komarev.com/ghpvc/?username=Khetag7)
 
-[![codewars](https://www.codewars.com/users/KhetagK/badges/large)](https://www.codewars.com/users/KhetagK)   
+[![codewars](https://www.codewars.com/users/KhetagK/badges/large)](https://www.codewars.com/users/KhetagK)  
+[![Khetag's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Khetag007&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ### About me
 
