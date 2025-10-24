@@ -2,7 +2,7 @@
 
 ### Front-end Developer Junior
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-@Khetag7-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=ff69b4&logoSize=20)](https://github.com/Khetag7)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-@Khetag7-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=ff69b4)](https://github.com/Khetag7)
 
 [![codewars](https://www.codewars.com/users/KhetagK/badges/large)](https://www.codewars.com/users/KhetagK)  
 [![LeetCode user Khetag007](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ff69b4&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKhetag007&logo=leetcode&logoColor=white)](https://leetcode.com/Khetag007/)
@@ -20,16 +20,14 @@ Hi! My name is Khetag, and I've been studying frontend development for three yea
 
 ## 💻 My Tech Stack:
 
-<div align="center">
-  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-ff69b4?style=flat-square&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Vue Router](https://img.shields.io/badge/Vue_Router-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Vue Pinia](https://img.shields.io/badge/Vue_Pinia-ffd700?style=flat-square&logo=pinia&logoColor=000000)
+![Vue Pinia](https://img.shields.io/badge/Vue_Pinia-FFD859?style=flat-square&logo=pinia&logoColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
@@ -48,15 +46,13 @@ Hi! My name is Khetag, and I've been studying frontend development for three yea
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=flat-square&logo=bem&logoColor=white)
 
-</div>
-
 ### 📈 GitHub Activity:
-![Khetag7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khetag7&show_icons=true&bg_color=30,ffb6c1,ff69b4&title_color=fff&text_color=fff&icon_color=fff&border_color=ff69b4)
+![Khetag7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khetag7&show_icons=true&theme=radical)
 
 ---
 
 <div align="center">
   
-Made with ❤️ by Khetag
+⭐️ From [Khetag](https://github.com/Khetag7)
 
 </div>
