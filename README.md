@@ -2,7 +2,7 @@
 
 ### Front-end Developer Junior
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-@Khetag7-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=ff69b4)](https://github.com/Khetag7)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-@Khetag7-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f)](https://github.com/Khetag7)
 
 [![codewars](https://www.codewars.com/users/KhetagK/badges/large)](https://www.codewars.com/users/KhetagK)  
 [![LeetCode user Khetag007](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ff69b4&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKhetag007&logo=leetcode&logoColor=white)](https://leetcode.com/Khetag007/)
@@ -53,6 +53,6 @@ Hi! My name is Khetag, and I've been studying frontend development for three yea
 
 <div align="center">
   
-⭐️ From [Khetag](https://github.com/Khetag7)
+Made with❤️ [Khetag](https://github.com/Khetag7)
 
 </div>
