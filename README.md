@@ -1,10 +1,13 @@
 # Hi!👋 I'm Khetag Kodzasov
 ### Junior Front-end Developer
+
+<div align="center">
+
 [![GitHub Profile](https://img.shields.io/badge/GitHub-@Khetag7-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=010409)](https://github.com/Khetag7)
-
 [![codewars](https://www.codewars.com/users/KhetagK/badges/large)](https://www.codewars.com/users/KhetagK)
-
 [![LeetCode user Khetag007](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=000000&color=000000&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKhetag007&logo=leetcode&logoColor=white)](https://leetcode.com/Khetag007/)
+
+</div>
 
 ### 👨‍💻 Me
 
