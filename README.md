@@ -19,6 +19,7 @@ I'm proficient with modern web technologies, learn quickly, and always enjoy mee
 * ✉️ You can contact me at [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
 
 ## Currently Working On:
+- Preparing for interviews
 - Study cases and personal development
 - Improving knowledge and technical skills
 - Personal projects
