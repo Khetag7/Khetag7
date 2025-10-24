@@ -1,5 +1,5 @@
 # Hi!👋 I'm Khetag Kodzasov
-## Junior Front-end Developer
+### Junior Front-end Developer
 [![GitHub Profile](https://img.shields.io/badge/GitHub-@Khetag7-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=010409)](https://github.com/Khetag7)
 
 [![codewars](https://www.codewars.com/users/KhetagK/badges/large)](https://www.codewars.com/users/KhetagK)
