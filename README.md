@@ -10,11 +10,7 @@
 
 ### About Me
 
-Hello! My name is Khetag, I have been studying Frontend development for 3 years. I'm passionate about becoming a skilled Frontend developer, and during this time my portfolio has accumulated more than 20+ pet projects, some of which are already live on the Internet.
-
-I'm primarily self-taught but have also learned with mentors, and have even taught programming to others. I've worked mostly as a freelancer, with some experience in companies and web studios. I've collaborated on team projects for over a year and have experience with numerous technologies.
-
-I'm proficient with modern web technologies, learn quickly, and always enjoy meeting new people. Currently, I'm seeking new opportunities and would be happy to connect with you!
+Hi! My name is Khetag, and I've been studying frontend development for three years. I want to become a professional frontend developer. During this time, my portfolio has accumulated over 20+ pet projects, some of which are already online. I studied on my own, taught programming with a mentor, worked freelance for a long time, worked for a company for a couple of months, and also worked briefly at a web studio. I've been developing projects/websites with a team for over a year, have a wide range of technologies and skills, am well-versed in technology, a quick learner, and always happy to meet new people. I'm currently looking for work and would be happy to chat with you!
 
 * ✉️ You can contact me at [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
 
