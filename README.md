@@ -10,7 +10,7 @@
 
 ### About Me
 
-Hello! My name is Khetag, I have been studying Frontend development for 3 years. I'm passionate about becoming a skilled Frontend developer, and during this time my portfolio has accumulated more than 20+ projects, some of which are already live on the Internet.
+Hello! My name is Khetag, I have been studying Frontend development for 3 years. I'm passionate about becoming a skilled Frontend developer, and during this time my portfolio has accumulated more than 20+ pet projects, some of which are already live on the Internet.
 
 I'm primarily self-taught but have also learned with mentors, and have even taught programming to others. I've worked mostly as a freelancer, with some experience in companies and web studios. I've collaborated on team projects for over a year and have experience with numerous technologies.
 
