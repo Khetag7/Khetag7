@@ -5,7 +5,7 @@
 [![GitHub Profile](https://img.shields.io/badge/GitHub-@Khetag7-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/Khetag7)
 
 [![codewars](https://www.codewars.com/users/KhetagK/badges/large)](https://www.codewars.com/users/KhetagK)  
-[![LeetCode user Khetag007](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23007ACC&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKhetag007&logo=leetcode&logoColor=white)](https://leetcode.com/Khetag007/)
+[![LeetCode user Khetag007](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=2D3748&color=%234A5568&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKhetag007&logo=leetcode&logoColor=white)](https://leetcode.com/Khetag007/)
 
 ### About Me
 
@@ -45,9 +45,19 @@ Hi! My name is Khetag, and I've been studying frontend development for three yea
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=flat-square&logo=bem&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ### 📈 GitHub Activity:
 ![Khetag7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khetag7&show_icons=true&theme=radical)
+
+---
+
+<div align="center">
+  
+Made with ❤️ by [Khetag](https://github.com/Khetag7)
+
+</div>
 
 ---
 
