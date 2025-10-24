@@ -1,7 +1,6 @@
 # Hi!👋 I'm Khetag Kodzasov
-
+## Junior Front-end Developer
 [![GitHub Profile](https://img.shields.io/badge/GitHub-@Khetag7-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=010409)](https://github.com/Khetag7)
-### Junior Front-end Developer
 
 [![codewars](https://www.codewars.com/users/KhetagK/badges/large)](https://www.codewars.com/users/KhetagK)
 
@@ -18,7 +17,7 @@ Hi! My name is Khetag, and I've been studying frontend development for three yea
 - Solving practical problems
 - Seeking interesting work opportunities!
 
-### 💻 Stack
+## 💻 Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
