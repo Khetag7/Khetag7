@@ -30,6 +30,7 @@ Hi! My name is Khetag, and I've been studying frontend development for three yea
 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Materialize CSS](https://img.shields.io/badge/Materialize_CSS-EE6E73?style=flat-square&logo=material-design&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
