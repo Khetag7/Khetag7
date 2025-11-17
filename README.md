@@ -54,3 +54,4 @@ Hi! My name is Khetag, and I've been studying frontend development for three yea
 Made with ❤️ by [Khetag](https://github.com/Khetag7)
 
 </div>
+
