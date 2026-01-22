@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Me
 
-Hi! My name is Khetag, and I've been studying frontend development for three years. I want to become a professional frontend developer. During this time, my portfolio has accumulated over 20+ pet projects, some of which are already online. I studied on my own, taught programming with a mentor, worked freelance for a long time, worked for a company for a couple of months, and also worked briefly at a web studio. I've been developing projects/websites with a team for over a year, have a wide range of technologies and skills, am well-versed in technology, a quick learner, and always happy to meet new people. I'm currently looking for work and would be happy to chat with you!
+Frontend developer with 3 years of experience developing with Vue. I specialize in creating complex, high-load user interfaces, optimizing performance, and implementing modern tools and methodologies. I successfully implement projects from scratch, build scalable application architecture, and ensure high-quality code. I have 3 years of experience. I create web applications with Vue and Nuxt that run quickly and solve client problems. I have also worked with a team. I am looking for a job and a team to grow with.
 
 * ✉️ You can contact me at [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
 
