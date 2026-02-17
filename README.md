@@ -16,7 +16,7 @@ Frontend developer with 3 years of experience developing with Vue. I specialize 
 * ✉️ Contact me: [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
 
 ## 🚀 Current Work
-- Working on developing my portfolio website.
+- Working on developing website.
 
 ## 💻 Tech Stack
 
