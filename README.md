@@ -69,7 +69,7 @@ Frontend developer with 3 years of experience developing with Vue. I specialize 
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=api&logoColor=white)
 
 ## 📈 Activity
-![Khetag7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khetag7&show_icons=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khetag7&theme=dracula)](https://git.io/streak-stats)
 
 ---
 
