@@ -9,16 +9,16 @@
 
 </div>
 
-## 👨‍💻 Обо мне
+## 👨‍💻 About Me
 
-Frontend-разработчик с 3 годами опыта разработки на Vue. Специализируюсь на создании сложных, высоконагруженных пользовательских интерфейсов, оптимизации производительности и внедрении современных инструментов и методологий. Успешно реализую проекты с нуля, выстраиваю масштабируемую архитектуру приложений и обеспечиваю высокое качество кода. Создаю веб-приложения на Vue и Nuxt, которые быстро работают и решают задачи клиента. Также имею опыт командной разработки. Ищу работу и команду для совместного роста.
+Frontend developer with 3 years of experience developing with Vue. I specialize in creating complex, high-load user interfaces, optimizing performance, and implementing modern tools and methodologies. I successfully implement projects from scratch, build scalable application architecture, and ensure high-quality code. I create web applications with Vue and Nuxt that run quickly and solve client problems. I also have experience working in a team. I am looking for a job and a team to grow with.
 
-* ✉️ Связаться со мной: [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
+* ✉️ Contact me: [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
 
-## 🚀 Текущая работа
-- Работаю над разработкой сайта-портфолио.
+## 🚀 Current Work
+- Working on developing my portfolio website.
 
-## 💻 Стек технологий
+## 💻 Tech Stack
 
 ### Frontend
 **Frameworks:**
@@ -68,13 +68,13 @@ Frontend-разработчик с 3 годами опыта разработк�
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=api&logoColor=white)
 
-## 📈 Активность
+## 📈 Activity
 ![Khetag7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khetag7&show_icons=true&theme=dracula)
 
 ---
 
 <div align="center">
   
-Сделано с ❤️ [Khetag](https://github.com/Khetag7)
+Made with ❤️ by [Khetag](https://github.com/Khetag7)
 
 </div>
