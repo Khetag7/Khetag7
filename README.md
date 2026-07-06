@@ -1,5 +1,5 @@
 # Hi!👋 I'm Khetag Kodzasov
-### Frontend Developer
+### Front-end Developer
 
 <div align="left">
 
