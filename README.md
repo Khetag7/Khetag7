@@ -64,11 +64,3 @@
 
 ## 📈 Activity
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khetag7&theme=dracula)](https://git.io/streak-stats)
-
----
-
-<div align="center">
-  
-Made with ❤️ by [Khetag](https://github.com/Khetag7)
-
-</div>
