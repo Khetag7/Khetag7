@@ -9,12 +9,6 @@
 
 </div>
 
-## 👨‍💻 About Me
-
-Frontend developer with 3 years of experience developing with Vue. I specialize in creating complex, high-load user interfaces, optimizing performance, and implementing modern tools and methodologies. I successfully implement projects from scratch, build scalable application architecture, and ensure high-quality code. I create web applications with Vue and Nuxt that run quickly and solve client problems. I also have experience working in a team. I am looking for a job and a team to grow with.
-
-* ✉️ Contact me: [khetag.kodzasov@mail.ru](mailto:khetag.kodzasov@mail.ru)
-
 ## 🚀 Current Work
 - Working on developing website.
 
