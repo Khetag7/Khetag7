@@ -1,4 +1,4 @@
-# Hi! I'm Frontend Developer
+# Hi! I'm Frontend Developer Khetag Kodzasov
 
 <div align="left">
 
